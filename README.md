@@ -3,7 +3,7 @@
   
   Estou aberto a críticas construtivas e melhoras no código.
   
- # O projeto foi desenvolvido com a linguagem: 
+ # O projeto foi desenvolvido atrvés da linguagem: 
  * C#
 ## Acesse meus outros meios de contato!
 ---

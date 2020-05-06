@@ -3,6 +3,8 @@
   
   Estou aberto a críticas construtivas e melhoras no código.
   
+ # O projeto foi desenvolvido com a linguagem: 
+ * C#
 ## Acesse meus outros meios de contato!
 ---
  * ### Meu [Instagram](https://www.instagram.com/_franciscone/);

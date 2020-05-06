@@ -1,7 +1,7 @@
 # Sistema Multi-funções
-  Um sistema multi-fuções que por ser genérico, pode ser implantado em qualquer ambiente de trabalho!  
+  Um sistema multi-fuções que por ser genérico, pode ser implantado em qualquer ambiente de trabalho.  
   
-  Estou aberto a críticas construtivas e melhoras no código.
+  Estou aberto a críticas construtivas e melhorias no código.
   
  # O projeto foi desenvolvido através da linguagem: 
  * C#

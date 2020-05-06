@@ -1,0 +1,41 @@
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe.config
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.pdb
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPrincipal.resources
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.Properties.Resources.resources
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.GenerateResource.cache
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.exe
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.pdb
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.CaixaSobre.resources
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe.config
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.pdb
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csprojAssemblyReference.cache
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.CaixaSobre.resources
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPrincipal.resources
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.Properties.Resources.resources
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.GenerateResource.cache
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.CoreCompileInputs.cache
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.exe
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.pdb
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmSplash.resources
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmLogin.resources
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmCadastro.resources
+E:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPedidos.resources
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe.config
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.pdb
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csprojAssemblyReference.cache
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmCadastro.resources
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.CaixaSobre.resources
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPrincipal.resources
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmLogin.resources
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPedidos.resources
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.Properties.Resources.resources
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmSplash.resources
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.GenerateResource.cache
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.CoreCompileInputs.cache
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.exe
+D:\2° Semestre\Desenvolvimento de Sistemas\Aula 06\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.pdb

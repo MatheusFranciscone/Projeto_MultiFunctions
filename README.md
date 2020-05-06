@@ -1,2 +1,3 @@
-# Projeto_MultiFunctions
- Projeto realizado na matéria de Desenvolvimento de Software da ETEC de Guarulhos que consiste em um sistema multi-funções. 
+# Sistema Multi-funções
+  Este projeto consiste em um sistema multi-funções. Por ser genérico, pode ser implantado em qualquer ambiente de trabalho!
+

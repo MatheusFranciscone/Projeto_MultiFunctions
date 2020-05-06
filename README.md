@@ -9,8 +9,8 @@
 ---
  * ### [Instagram](https://www.instagram.com/_franciscone/);
  * ### [LinkedIn](https://www.linkedin.com/in/matheus-franciscone/);
-## Acesse também meus reposotórios aqui no GitHub!
+## Acesse também meus repositórios aqui no GitHub!
 ---
 
- * ### [Repositórios no GitHub](https://github.com/MatheusFranciscone?tab=repositories).
+ * ### [Repositórios](https://github.com/MatheusFranciscone?tab=repositories)
 

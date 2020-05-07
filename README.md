@@ -6,6 +6,9 @@
  # O projeto foi desenvolvido através da linguagem: 
  * C#
  
+ # Login e Senha do sistema: 
+      Login: admin
+      Senha: admin
 ## Acesse meus outros meios de contato!
 
  * ### [Instagram](https://www.instagram.com/_franciscone/);

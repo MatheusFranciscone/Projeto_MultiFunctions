@@ -62,13 +62,19 @@ namespace Aula06_Ex01
             private void btnExcluir_Click(object sender, EventArgs e)
         {
             totalprecolinha = 0;
-            dgvPedidos.Rows.RemoveAt(dgvPedidos.CurrentRow.Index);
 
+            if (dgvPedidos.Rows.Count != 0 )
+            {            
+                dgvPedidos.Rows.RemoveAt(dgvPedidos.CurrentRow.Index);
+
+            } else
+            {
+                MessageBox.Show("Insira dados na tabela para poder excluir!", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             foreach (DataGridViewRow row in dgvPedidos.Rows)
             {
                 totalprecolinha += Convert.ToDouble(row.Cells["total"].Value);
             }
-
 
             txtTotal.Text = Convert.ToDouble(totalprecolinha).ToString("C");
         }

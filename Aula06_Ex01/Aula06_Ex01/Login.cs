@@ -24,8 +24,8 @@ namespace Aula06_Ex01
         {
             string login, senha;
 
-            login = txtLogin.Text;
-            senha = txtSenha.Text;
+            login = txtLogin.Text; 
+            senha = txtSenha.Text; 
 
             if (login == "admin" & senha == "admin")
             {

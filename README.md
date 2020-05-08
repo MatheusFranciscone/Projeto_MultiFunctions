@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/projeto-quiz/blob/master/imagens-quiz/image-question.png" width="150">
+<img src="https://github.com/MatheusFranciscone/projeto-multifunctions/blob/master/Aula06_Ex01/computer-icon.png" width="150">
 </p>
 
 # Sistema Multi-funções

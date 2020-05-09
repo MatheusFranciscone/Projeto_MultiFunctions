@@ -1,3 +1,8 @@
+
+<p align="center">
+<img src="https://github.com/MatheusFranciscone/projeto-multifunctions/blob/master/Aula06_Ex01/computer-icon.png" width="128">
+</p>
+
 # Sistema Multi-funções
   Um sistema multi-função que por ser genérico, pode ser implantado em qualquer ambiente de trabalho.  
   

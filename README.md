@@ -20,4 +20,4 @@
  * _Acesse aqui meu_ [_Instagram_](https://www.instagram.com/_franciscone/);
  * _Acesse aqui meu_ [_LinkedIn_](https://www.linkedin.com/in/matheus-franciscone/).
  
-## Acesse também outros [repositórios](https://github.com/MatheusFranciscone?tab=repositories) meus aqui no GitHub!
+## Acesse também meus outros [repositórios](https://github.com/MatheusFranciscone?tab=repositories) aqui no GitHub!

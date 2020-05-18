@@ -11,7 +11,7 @@
  # O projeto foi desenvolvido através da linguagem: 
  * C#
  
- # Login e Senha do sistema: 
+ # Login e senha do sistema: 
       Login: admin
       Senha: admin
 
